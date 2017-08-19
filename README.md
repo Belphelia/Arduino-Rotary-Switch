@@ -22,4 +22,4 @@ Maybe work after connect resistor below:<br>
  9 - 10: 4.7k ohm<br>
 10 - 11: 2.2k ohm and  10k ohm<br>
 11 - 12:  47k ohm<br>
-And some wires
+And some wires...
